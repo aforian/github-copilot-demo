@@ -53,10 +53,10 @@
 
 ### Attempt 4：產生測試 2
 
-1. 開啟 `src/utils/addressUtils.spec.ts`
-2. 使用 `cmd + I` 輸入 `/tests fullAddress`
+1. 開啟 `src/utils/addressUtils.ts`
+2. 在下方輸入 `describe('fullAddress'`，然後用 `cmd + enter`
 
-![demo-2-attempt-3](./public/readme_resource/demo-2-attempt-3.gif)
+![demo-2-attempt-3](./public/readme_resource/demo-2-attempt-4.gif)
 
 ## Getting Started
 
